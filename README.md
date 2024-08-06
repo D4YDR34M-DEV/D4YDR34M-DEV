@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Chuma
 #### RED TEAM OPERATIONS 
-![RED TEAM OPERATIONS ](https://www.linkedin.com/in/chukwumanwaozuru/overlay/background-image/)
+
 
 Experienced low-level programmer specializing in malware development and reverse engineering. Experienced in  writing custom malicious code targeting Windows and Linux systems. Proficient in assembly, C, and Python with deep knowledge of operating system internals, anti-analysis techniques, and evasion methods.
 
